@@ -1,0 +1,1 @@
+Pokusný text pre príkaz git push -u origin (názov vetvy)
